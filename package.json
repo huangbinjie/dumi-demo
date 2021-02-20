@@ -1,0 +1,9 @@
+{
+  "name": "dumi-demo",
+  "scripts": {
+    "dev": "dumi dev"
+  },
+  "devDependencies": {
+    "dumi": "1.1.4"
+  }
+}

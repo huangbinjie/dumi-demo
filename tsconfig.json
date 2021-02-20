@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "rootDir": "./src",
+    "paths": {
+      "dumi-demo/icons": ["./src/icons"]
+    }
+  }
+}
